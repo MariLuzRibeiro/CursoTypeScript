@@ -1,12 +1,12 @@
 {
     "compilerOptions": {
         "target": "esnext",
-        "outDir": "./dist/js/",
+        "outDir": "dist/js",
         "noEmitOnError": true,
     },
     "include": [
         "./src/**/*"
-    ]
+, "server.js"    ]
 
 
 }
