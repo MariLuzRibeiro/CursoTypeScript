@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "esnext",
+        "outDir": "./dist/js/",
+        "noEmitOnError": true,
+    },
+    "include": [
+        "./src/**/*"
+    ]
+
+
+}
