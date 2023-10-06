@@ -20,7 +20,7 @@ function renderizarSaldo(): void {
 
 const SaldoComponent = {
   atualizar() {
-    renderizarSaldo();
+  renderizarSaldo();
   }
 }
 
